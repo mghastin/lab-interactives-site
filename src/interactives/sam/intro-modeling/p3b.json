@@ -1,0 +1,24 @@
+{
+  "title": "Seeing Kinetic Energy",
+  "publicationStatus": "draft",
+  "subtitle": "The ball also has kinetic energy whenever it has any motion. Kinetic energy is defined as the energy of motion. Let's visualize the kinetic energy in two different ways, by coloring the ball more red for more kinetic energy, and by graphing the kinetic energy. The color of the ball will tell us the kinetic energy at any particular moment, and the graph will give us a historical record of how the kinetic energy changes over time. Run the model to see how this works",
+  "about": "",
+  "models": [
+    {
+      "type": "md2d",
+      "id": "introp3-energy",
+      "url": "models/lab-version/1/md2d/sam/intro-modeling/p3/p3b.json",
+      "viewOptions": {
+        "controlButtons": "play_reset"
+      }
+    }
+  ],
+  "components": [
+
+  ],
+  "layout": {
+    "bottom": [
+
+    ]
+  }
+}

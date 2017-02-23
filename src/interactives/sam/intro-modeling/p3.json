@@ -1,0 +1,24 @@
+{
+  "title": "Seeing the velocity",
+  "publicationStatus": "draft",
+  "subtitle": "One advantage of using computer models is that we can create different ways to \"see\" numerical data. For example, the ball has a velocity (which means it has a speed and direction of motion) that we can represent by an arrow.",
+  "about": "",
+  "models": [
+    {
+      "type": "md2d",
+      "id": "introp3-velocity",
+      "url": "models/lab-version/1/md2d/sam/intro-modeling/p3/p3.json",
+      "viewOptions": {
+        "controlButtons": "play_reset"
+      }
+    }
+  ],
+  "components": [
+
+  ],
+  "layout": {
+    "bottom": [
+
+    ]
+  }
+}
